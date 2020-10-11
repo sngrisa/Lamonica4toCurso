@@ -1,0 +1,19 @@
+{
+  "name": "proyectos-lamonica",
+  "version": "1.0.0",
+  "description": "Proyectos con Ezequiel Lamonica 4to curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sngrisa/Lamonica4toCurso.git"
+  },
+  "author": "Santiago Grisafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sngrisa/Lamonica4toCurso/issues"
+  },
+  "homepage": "https://github.com/sngrisa/Lamonica4toCurso#readme"
+}
