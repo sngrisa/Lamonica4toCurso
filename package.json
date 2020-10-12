@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sngrisa/Lamonica4toCurso/issues"
   },
-  "homepage": "https://github.com/sngrisa/Lamonica4toCurso#readme"
+  "homepage": "https://github.com/sngrisa/Lamonica4toCurso#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
