@@ -21,5 +21,17 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "description": "El Cairo Servicios Informaticos",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sngrisa/ElCairo.git"
+  },
+  "author": "Santiago Grisafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sngrisa/ElCairo/issues"
+  },
+  "homepage": "https://github.com/sngrisa/ElCairo#readme"
 }

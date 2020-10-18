@@ -1,22 +1,26 @@
 {
   "name": "proyectos-lamonica",
-  "version": "1.0.0",
-  "description": "Proyectos con Ezequiel Lamonica 4to curso",
-  "main": "index.js",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./bin/www",
+    "devstart": "nodemon ./bin/www"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sngrisa/Lamonica4toCurso.git"
-  },
-  "author": "Santiago Grisafi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sngrisa/Lamonica4toCurso/issues"
-  },
-  "homepage": "https://github.com/sngrisa/Lamonica4toCurso#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "bootstrap": "^4.5.3",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.5.1",
+    "leaflet": "^1.7.1",
+    "morgan": "~1.9.1",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.16.1",
+    "pug": "2.0.0-beta11",
+    "tooltip-js": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
   }
 }
