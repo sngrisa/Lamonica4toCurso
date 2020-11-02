@@ -17,7 +17,7 @@
     "morgan": "~1.9.1",
     "open-iconic": "^1.1.1",
     "popper.js": "^1.16.1",
-    "pug": "2.0.0-beta11",
+    "pug": "^2.0.4",
     "tooltip-js": "^3.0.0"
   },
   "devDependencies": {
